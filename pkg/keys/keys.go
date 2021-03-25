@@ -6,10 +6,10 @@ import (
 	"path"
 	"strings"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/address"
-	"github.com/fbsobreira/gotron-sdk/pkg/keystore"
+	"github.com/shacoqian/gotron-sdk/pkg/address"
+	"github.com/shacoqian/gotron-sdk/pkg/keystore"
 
-	// "github.com/ethereum/go-ethereum/crypto"
+	// "github.com/shacoqian/go-ethereum/crypto"
 
 	homedir "github.com/mitchellh/go-homedir"
 )

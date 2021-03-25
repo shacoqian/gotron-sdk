@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/shacoqian/gotron-sdk/pkg/common"
+	"github.com/shacoqian/gotron-sdk/pkg/proto/api"
+	"github.com/shacoqian/gotron-sdk/pkg/proto/core"
 	"github.com/golang/protobuf/proto"
 )
 
